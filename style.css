@@ -1,0 +1,47 @@
+header, footer {
+  background: #7a4fa3;
+  color: white;
+  text-align: center;
+  padding: 12px;
+}
+
+
+nav {
+  background: #5e3a80;
+  text-align: center;
+  padding: 8px;
+}
+
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+
+main {
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 0 15px;
+}
+
+
+section, article, aside {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 12px;
+  margin-bottom: 12px;
+}
+
+
+h2 {
+  color: #7a4fa3;
+  margin-top: 0;
+}
+
+
+video, audio {
+  width: 100%;
+}
